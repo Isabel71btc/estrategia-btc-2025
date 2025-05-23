@@ -1,5 +1,3 @@
-import { EstrategiaBTC2025 } from './EstrategiaBTC2025';
-
 export default function Page() {
-  return <EstrategiaBTC2025 />;
+  return <h1>Bienvenida a Estrategia BTC 2025</h1>;
 }
