@@ -1,0 +1,20 @@
+export default function Tienda() {
+  return (
+    <main style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
+      <h1>🛍️ Estrategia Store (en construcción)</h1>
+      <p>Bienvenida a tu futura tienda digital centrada en herramientas para inversoras cripto.</p>
+
+      <h2>🔧 ¿Qué podrás ofrecer aquí?</h2>
+      <ul>
+        <li>📘 Guías prácticas de inversión en BTC 2025</li>
+        <li>📊 Plantillas de control de movimientos</li>
+        <li>🧠 Mini cursos o asesorías privadas</li>
+        <li>💼 Servicios de ayuda para personas que empiezan</li>
+      </ul>
+
+      <p style={{ marginTop: '2rem', fontStyle: 'italic' }}>
+        Esta sección está lista para cuando tú lo estés.
+      </p>
+    </main>
+  );
+}
