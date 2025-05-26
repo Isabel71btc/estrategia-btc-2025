@@ -1,3 +1,5 @@
+import './globals.css'; // O comenta esta línea si no tienes globals.css
+
 export const metadata = {
   title: 'Estrategia BTC 2025',
   description: 'Tu estrategia privada de inversión y tienda personal.',
@@ -6,6 +8,7 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es">
+      <head />
       <body>{children}</body>
     </html>
   );
