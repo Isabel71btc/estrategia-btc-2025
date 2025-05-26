@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="min-h-screen p-8 bg-white text-gray-900">
       <section className="text-center mb-12">
-        <h1 className="text-4xl font-bold mb-4">Bienvenida a EstrategiaBTC2025</h1>
+        <h1 className="text-4xl font-bold mb-4">Bienvenida a tu EstrategiaBTC2025</h1>
         <p className="text-lg">Tu centro privado para seguir la estrategia de inversión en Bitcoin de forma segura y anónima.</p>
       </section>
 
